@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://tech-an.github.io/csb-le22vz/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://tech-an.github.io/csb-le22vz/static/js/main.0863e2f9.chunk.js",
-    "main.js.map": "https://tech-an.github.io/csb-le22vz/static/js/main.0863e2f9.chunk.js.map",
+    "main.js": "https://tech-an.github.io/csb-le22vz/static/js/main.d82b77f3.chunk.js",
+    "main.js.map": "https://tech-an.github.io/csb-le22vz/static/js/main.d82b77f3.chunk.js.map",
     "runtime-main.js": "https://tech-an.github.io/csb-le22vz/static/js/runtime-main.b29b2d7a.js",
     "runtime-main.js.map": "https://tech-an.github.io/csb-le22vz/static/js/runtime-main.b29b2d7a.js.map",
     "static/js/2.33f0bf01.chunk.js": "https://tech-an.github.io/csb-le22vz/static/js/2.33f0bf01.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.b29b2d7a.js",
     "static/js/2.33f0bf01.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.0863e2f9.chunk.js"
+    "static/js/main.d82b77f3.chunk.js"
   ]
 }
